@@ -1,1 +1,11 @@
 filename,source,document_type,language,contains_patient_data,notes
+doc_001.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_002.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_003.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_004.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_005.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_006.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_007.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_008.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_009.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
+doc_010.jpg,Kaggle Noisy Medical Document Images OCR,medical_document,english,no,sample noisy medical OCR image
