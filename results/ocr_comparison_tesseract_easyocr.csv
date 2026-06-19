@@ -1,0 +1,1038 @@
+filename,engine,image_type,ocr_text,processing_time_seconds,device
+med_doc_bill_100401_noisy.jpg,tesseract,raw,"Apollo Health City
+
+Jubilee Hills, Hyderabad, Telangana 500033
+NPI: 1932485721 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance:
+
+Guarantor No: MRN-5920183 Group No:
+
+Patient Name: Sneha lyer Primary Diagnosis:
+
+Date of Birth: 1988-03-05 ICD-10 Code:
+
+| AIS
+BET} Description
+
+05/22/2026 Emergency Room Level 3
+05/22/2026 IV Therapy
+
+05/22/2026 Pharmacy Services
+05/22/2026 Medical/Surgical Supplies
+
+05/22/2026 Hepatic Function Panel
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+Please detach
+
+Star Health and Allied Insurance
+GRP-3236
+
+Hyperlipidemia
+
+E78.5
+
+$906.00
+$107.00
+$398.00
+$104.00
+
+$45.00
+
+$1560.00
+-$1096.00
+$464.00
+
+ 
+",3.066538095474243,CPU
+med_doc_discharge_summary_200434_noisy.jpg,tesseract,raw,"Christian Medical College (CMC)
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Priya Patel MRN-4920184 1990-08-25
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis of Knee.
+Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening
+over the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Osteoarthritis of Knee (ICD-10: M17.9)
+
+3. HOSPITAL COURSE
+
+Admitted for severe knee exacerbation. X-rays confirmed moderate to severe OA. Received an intra-articular
+corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: Therapeutic
+Exercise, Physical Therapy Evaluation, Pharmacy Services, X-Ray Knee, 3 Views, IV Therapy. Results were reviewed
+by the attending physician and incorporated into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+¢ Meloxicam 15mg PO Daily
+¢ Triamcinolone Acetonide Intra-articular Injection
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+
+ 
+",8.177578687667847,CPU
+med_doc_bill_100407_noisy.jpg,tesseract,raw," 
+ 
+ 
+ 
+  
+  
+    
+ 
+    
+   
+    
+  
+  
+   
+
+  
+
+Manipal Hospital
+
+Old Airport Road, Bengaluru, Karnataka 560017
+NPI: 1728394051 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026
+Guarantor No: MRN-4920184
+
+Patient Name: Priya Patel
+
+Date of Birth: 1990-08-25
+
+er it) CPT ere Totals lied
+05/22/2026 80061 Lipid Panel
+05/22/2026 0260 IV Therapy
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+ 
+
+Primary Insurance:
+
+Group No:
+
+Primary Diagnosis:
+
+ICD-10 Code:
+
+ICICI Lombard General Insurance
+GRP-2139
+
+Hyperlipidemia
+
+E78.5
+
+Charges
+$65.00
+
+$141.00
+
+$206.00
+-$151.00
+$55.00
+
+ 
+",2.1279683113098145,CPU
+med_doc_discharge_summary_200435_noisy.jpg,tesseract,raw," 
+
+Apollo Health City
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Amit Singh MRN-1039485 1978-11-03
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Acute Bronchitis. Upon
+admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening over
+the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Acute Bronchitis (ICD-10: J20.9)
+
+3. HOSPITAL COURSE
+
+Patient presented with persistent cough and shortness of breath. Chest X-Ray confirmed no pneumonia. Treated with
+bronchodilators and a short course of oral steroids. Symptoms improved significantly.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: Spirometry,
+Medical/Surgical Supplies, Room and Board - Semi-Private, Rapid Strep Test. Results were reviewed by the attending
+physician and incorporated into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+¢ Albuterol Sulfate Inhaler 2 puffs Q4H PRN
+* Azithromycin 250mg PO Daily x 5 Days
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+
+ 
+",8.17735505104065,CPU
+med_doc_discharge_summary_200436_noisy.jpg,tesseract,raw," 
+
+Lilavati Hospital
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Pooja Joshi MRN-8492018 1980-01-22
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis of Knee.
+Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening
+over the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Osteoarthritis of Knee (ICD-10: M17.9)
+
+3. HOSPITAL COURSE
+
+Admitted for severe knee exacerbation. X-rays confirmed moderate to severe OA. Received an intra-articular
+corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: X-Ray Knee, 3
+Views, Emergency Room Level 3, Medical/Surgical Supplies. Results were reviewed by the attending physician and
+incorporated into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+* Meloxicam 15mg PO Daily
+¢ Triamcinolone Acetonide Intra-articular Injection
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+
+ 
+",6.140182971954346,CPU
+med_doc_discharge_summary_200429_noisy.jpg,tesseract,raw,"Apollo Health City
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Priya Patel MRN-4920184
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Essential Hypertension.
+Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening
+over the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+Essential Hypertension (ICD-10: 110)
+
+3. HOSPITAL COURSE
+
+Admitted for hypertensive urgency. Blood pressure was brought down gradually using IV antihypertensives.
+Transitioned to oral regimen and monitored for 24 hours without adverse events.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated:
+Electrocardiogram, Routine ECG, Medical/Surgical Supplies, Lipid Panel, Emergency Room Level 3, IV Therapy,
+Echocardiogram Complete. Results were reviewed by the attending physician and incorporated into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+¢ Amlodipine 5mg PO Daily
+
+* Hydrochlorothiazide 25mg PO Daily
+
+* Lisinopril 10mg PO Daily
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Date/Time:
+
+05/22/2026 00:00 PST
+
+ 
+",7.7743988037109375,CPU
+med_doc_discharge_summary_200432_noisy.jpg,tesseract,raw,"Manipal Hospital
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Rohan Sharma MRN-8472910 1985-04-12
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis of Knee.
+Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening
+over the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Osteoarthritis of Knee (ICD-10: M17.9)
+
+3. HOSPITAL COURSE
+
+Admitted for severe knee exacerbation. X-rays confirmed moderate to severe OA. Received an intra-articular
+corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: IV Therapy,
+Physical Therapy Evaluation, Room and Board - Semi-Private, Pharmacy Services. Results were reviewed by the
+attending physician and incorporated into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+¢ Ibuprofen 800mg PO TID PRN
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+
+ 
+",7.073277235031128,CPU
+med_doc_discharge_summary_200439_noisy.jpg,tesseract,raw," 
+
+Lilavati Hospital
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Karan Malhotra MRN-3019284 1992-07-15
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis of Knee.
+Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening
+over the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Osteoarthritis of Knee (ICD-10: M17.9)
+
+3. HOSPITAL COURSE
+
+Admitted for severe knee exacerbation. X-rays confirmed moderate to severe OA. Received an intra-articular
+corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: Room and
+Board - Semi-Private, Therapeutic Exercise, X-Ray Knee, 3 Views, Emergency Room Level 3, Medical/Surgical
+Supplies, Pharmacy Services. Results were reviewed by the attending physician and incorporated into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+* Triamcinolone Acetonide Intra-articular Injection
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+
+ 
+
+ 
+",7.663038969039917,CPU
+med_doc_discharge_summary_200433_noisy.jpg,tesseract,raw," 
+
+Apollo Health City
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Amit Singh MRN-1039485 1978-11-03
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Acute Bronchitis. Upon
+admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening over
+the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Acute Bronchitis (ICD-10: J20.9)
+
+3. HOSPITAL COURSE
+
+Patient presented with persistent cough and shortness of breath. Chest X-Ray confirmed no pneumonia. Treated with
+bronchodilators and a short course of oral steroids. Symptoms improved significantly.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: Pharmacy
+Services, Emergency Room Level 3. Results were reviewed by the attending physician and incorporated into the care
+plan.
+
+5. DISCHARGE MEDICATIONS
+
+* Benzonatate 100mg PO TID PRN Cough
+* Albuterol Sulfate Inhaler 2 puffs Q4H PRN
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+",6.9158549308776855,CPU
+med_doc_bill_100402_noisy.jpg,tesseract,raw,"Apollo Health City
+
+Jubilee Hills, Hyderabad, Telangana 500033
+NPI: 1932485721 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance:
+Guarantor No: MRN-5920183 Group No:
+
+Patient Name: Sneha lyer Primary Diagnosis:
+Date of Birth: 1988-03-05 ICD-10 Code:
+
+BFC) CPT Description
+
+05/22/2026 0250 Pharmacy Services
+
+05/22/2026 36415
+
+Venipuncture
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+ 
+
+ 
+
+Star Health and Allied Insurance
+GRP-9820
+
+Hyperlipidemia
+
+E78.5
+
+ 
+
+$85.00
+-$55.00
+$30.00
+
+ 
+",3.004271507263184,CPU
+med_doc_bill_100409_noisy.jpg,tesseract,raw,"    
+   
+  
+  
+     
+   
+   
+   
+    
+  
+  
+  
+
+Manipal Hospital
+
+Old Airport Road, Bengaluru, Karnataka 560017
+NPI: 1728394051 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance: Star Health and Allied Insurance
+Guarantor No: MRN-3920184 Group No: GRP-7200
+
+Patient Name: Vikram Reddy Primary Diagnosis: Acute Bronchitis
+
+Date of Birth: 1982-09-30 ICD-10 Code: J20.9
+
+FIT) eas Description bear [ge 1-9
+05/22/2026 0270 Medical/Surgical Supplies $150.00
+05/22/2026 99283 Emergency Room Level 3 $564.00
+05/22/2026 94010 Spirometry $53.00
+Total Billed Charges: $767.00
+Insurance Adjustments: -$664.00
+PATIENT AMOUNT DUE: $103.00
+",4.855504751205444,CPU
+med_doc_bill_100498_noisy.jpg,tesseract,raw,"Apollo Health City
+
+Jubilee Hills, Hyderabad, Telangana 500033
+NPI: 1932485721 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance:
+Guarantor No: MRN-3019284 Group No:
+
+Patient Name: Karan Malhotra Primary Diagnosis:
+Date of Birth: 1992-07-15 ICD-10 Code:
+
+Ft) Leas Description
+
+05/22/2026 0260 IV Therapy
+
+05/22/2026 97110 Therapeutic Exercise
+
+05/22/2026 0120 Room and Board - Semi-Private
+
+05/22/2026 0250 Pharmacy Services
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+ 
+
+HDFC ERGO General Insurance
+GRP-3163
+
+Osteoarthritis of Knee
+
+M17.9
+
+benir ge
+$203.00
+$85.00
+$1116.00
+
+$141.00
+
+$1545.00
+-$1099.00
+$446.00
+
+ 
+",2.6004199981689453,CPU
+med_doc_bill_100499_noisy.jpg,tesseract,raw,"Manipal Hospital
+
+Old Airport Road, Bengaluru, Karnataka 560017
+NPI: 1728394051 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance:
+
+Guarantor No: MRN-3019284 Group No:
+
+Patient Name: Karan Malhotra Primary Diagnosis:
+
+Date of Birth: 1992-07-15 ICD-10 Code:
+
+Brett) CPT Description
+05/22/2026 71045 Chest X-Ray, 1 View
+
+05/22/2026 0120 Room and Board - Semi-Private
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+ICICI Lombard General Insurance
+
+GRP-4854
+Acute Bronchitis
+J20.9
+
+Charges
+$96.00
+
+$1373.00
+
+$1469.00
+-$955.00
+$514.00
+
+ 
+",4.100988388061523,CPU
+med_doc_bill_100400_noisy.jpg,tesseract,raw," 
+
+Lilavati Hospital
+
+Bandra Reclamation, Mumbai, Maharashtra 400050
+NPI: 1482950384 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance:
+Guarantor No: MRN-3920184 Group No:
+
+Patient Name: Vikram Reddy Primary Diagnosis:
+Date of Birth: 1982-09-30 ICD-10 Code:
+
+BFC) ota els Tolg lected)
+
+05/22/2026 0120 Room and Board - Semi-Private
+
+05/22/2026 0250 Pharmacy Services
+
+05/22/2026 83036 Hemoglobin A1c (HbA1c)
+
+05/22/2026 99283 Emergency Room Level 3
+
+05/22/2026 0270 Medical/Surgical Supplies
+
+05/22/2026 99213 Office Visit, Est Patient
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+ 
+
+Star Health and Allied Insurance
+GRP-9757
+
+Type 2 Diabetes Mellitus
+
+E11.9
+
+Charges
+$853.00
+$80.00
+$82.00
+$485.00
+$164.00
+
+$94.00
+
+$1758.00
+-$1384.00
+$374.00
+
+ 
+",3.105171203613281,CPU
+med_doc_discharge_summary_200431_noisy.jpg,tesseract,raw,"Fortis Escorts Heart Institute
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Amit Singh MRN-1039485 1978-11-03
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Acute Bronchitis. Upon
+admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening over
+the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Acute Bronchitis (ICD-10: J20.9)
+
+3. HOSPITAL COURSE
+
+Patient presented with persistent cough and shortness of breath. Chest X-Ray confirmed no pneumonia. Treated with
+bronchodilators and a short course of oral steroids. Symptoms improved significantly.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: Spirometry,
+Chest X-Ray, 1 View, Emergency Room Level 3, Complete Blood Count (CBC), IV Therapy, Pharmacy Services.
+Results were reviewed by the attending physician and incorporated into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+* Albuterol Sulfate Inhaler 2 puffs Q4H PRN
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+
+ 
+",6.074076414108276,CPU
+med_doc_bill_100408_noisy.jpg,tesseract,raw,"Christian Medical College (CMC)
+
+Ida Scudder Road, Vellore, Tamil Nadu 632004
+NPI: 1958473029 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance:
+Guarantor No: MRN-5920183 Group No:
+
+Patient Name: Sneha lyer Primary Diagnosis:
+Date of Birth: 1988-03-05 ICD-10 Code:
+
+Ec) CPT eye Seid | olaceya)
+
+05/22/2026 0270 Medical/Surgical Supplies
+
+05/22/2026 99283 Emergency Room Level 3
+
+05/22/2026 85025 Complete Blood Count (CBC)
+
+05/22/2026 0250 Pharmacy Services
+
+05/22/2026 0260 IV Therapy
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+Please detach and return witr
+
+ 
+
+Religare Health Insurance
+GRP-1121
+
+Acute Bronchitis
+
+J20.9
+
+$61.00
+$463.00
+$66.00
+$386.00
+
+$135.00
+
+$1111.00
+-$869.00
+$242.00
+
+ 
+",4.244051694869995,CPU
+med_doc_discharge_summary_200428_noisy.jpg,tesseract,raw," 
+
+Lilavati Hospital
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Neha Gupta MRN-2019384 1995-05-20
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis of Knee.
+Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening
+over the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Osteoarthritis of Knee (ICD-10: M17.9)
+
+3. HOSPITAL COURSE
+
+Admitted for severe knee exacerbation. X-rays confirmed moderate to severe OA. Received an intra-articular
+corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: Physical
+Therapy Evaluation, Medical/Surgical Supplies. Results were reviewed by the attending physician and incorporated
+into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+* Ibuprofen 800mg PO TID PRN
+* Meloxicam 15mg PO Daily
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+
+ 
+",6.0713372230529785,CPU
+med_doc_discharge_summary_200430_noisy.jpg,tesseract,raw,"Lilavati Hospital
+
+DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY
+
+Patient: MRN: DOB:
+Karan Malhotra MRN-3019284 1992-07-15
+
+1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS
+
+Patient presented to the emergency department with worsening symptoms consistent with Essential Hypertension.
+Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening
+over the past 48 hours prior to admission. No history of recent trauma.
+
+2. ADMISSION DIAGNOSIS
+
+Essential Hypertension (ICD-10: 110)
+
+3. HOSPITAL COURSE
+
+Admitted for hypertensive urgency. Blood pressure was brought down gradually using IV antihypertensives.
+Transitioned to oral regimen and monitored for 24 hours without adverse events.
+
+4. PERTINENT LABS & IMAGING
+
+During the course of the admission, the following diagnostic procedures were ordered and evaluated: Room and
+Board - Semi-Private, Basic Metabolic Panel (BMP), Pharmacy Services, Echocardiogram Complete, IV Therapy.
+Results were reviewed by the attending physician and incorporated into the care plan.
+
+5. DISCHARGE MEDICATIONS
+
+« Amlodipine 5mg PO Daily
+
+6. DISCHARGE INSTRUCTIONS & FOLLOW-UP
+
+DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous
+exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return
+to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding,
+or fever greater than 101.5°F.
+
+7. ALLERGIES & CODE STATUS
+
+Allergies: No Known Drug Allergies (NKDA). Code Status: Full Code.
+
+Electronically Signed By: Date/Time:
+
+Dr. Jonathan H. Carter, MD 05/22/2026 00:00 PST
+
+ 
+",7.611469745635986,CPU
+med_doc_bill_100403_noisy.jpg,tesseract,raw,"Fortis Escorts Heart Institute
+
+Okhla Road, New Delhi, Delhi 110025
+NPI: 1847592038 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance:
+
+Guarantor No: MRN-4859201 Group No:
+
+Patient Name: Rahul Verma Primary Diagnosis:
+
+Date of Birth: 1970-12-10 ICD-10 Code:
+
+05/22/2026 0260
+05/22/2026 20610
+05/22/2026 0120
+05/22/2026 73562
+
+05/22/2026 0250
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+Description
+
+IV Therapy
+
+Arthrocentesis / Joint Injection
+Room and Board - Semi-Private
+X-Ray Knee, 3 Views
+
+Pharmacy Services
+
+ICICI Lombard General Insurance
+GRP-9528
+
+Osteoarthritis of Knee
+
+M17.9
+
+$255.00
+$287.00
+$1027.00
+$199.00
+
+$158.00
+
+$1926.00
+-$1497.00
+$429.00
+
+ 
+",2.7235348224639893,CPU
+med_doc_bill_100406_noisy.jpg,tesseract,raw,"Fortis Escorts Heart Institute
+
+Okhla Road, New Delhi, Delhi 110025
+NPI: 1847592038 | Phone: (555) 019-8372
+
+PATIENT ACCOUNT STATEMENT
+
+Statement Date: 05/22/2026 Primary Insurance:
+Guarantor No: MRN-3920184 Group No:
+
+Patient Name: Vikram Reddy Primary Diagnosis:
+Date of Birth: 1982-09-30 ICD-10 Code:
+
+BEV) | CPT Description
+
+05/22/2026 0250 Pharmacy Services
+
+05/22/2026 92250 Diabetic Retinal Exam
+
+05/22/2026 99213 Office Visit, Est Patient
+
+Total Billed Charges:
+Insurance Adjustments:
+
+PATIENT AMOUNT DUE:
+
+- Please detach and return with your payment
+
+ 
+
+ 
+
+Religare Health Insurance
+GRP-8372
+
+Type 2 Diabetes Mellitus
+E11.9
+
+$260.00
+$101.00
+
+$102.00
+
+$463.00
+-$292.00
+$171.00
+
+ 
+",2.355226755142212,CPU
+med_doc_discharge_summary_200430_noisy.jpg,easyocr,raw,"Lilavati Hospital DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Karan Malhotra MRN-3019284 1992-07-15 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented to the emergency department with worsening symptoms consistent with Essential Hypertension. Upon admission , initial vitals were stabilized: The patient reported that symptoms have been progressively worsening over the past 48 hours prior to admission. No history of recent trauma. 2. ADMISSION DIAGNOSIS Essential Hypertension (ICD-10: I10) 3. HOSPITAL COURSE Admitted for hypertensive urgency. Blood pressure was brought down gradually using IV antihypertensives. Transitioned t0 oral regimen and monitored for 24 hours without adverse events: 4.PERTINENT LABS & IMAGING the course of the admission, the following diagnostic procedures were ordered and evaluated: Room and Board Semi-Private, Basic Metabolic Panel (BMP) , Pharmacy Services, Echocardiogram Complete, IV Therapy_ Results were reviewed by the attending physician and incorporated into the care plan. 5. DISCHARGE MEDICATIONS Amlodipine PO Daily 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated: Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week: FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F 7. ALLERGIES & CODE STATUS Allergies: No Known Allergies (NKDA): Code Status: Full Code_ Electronically Signed By: DatelTime: Dr. Jonathan H: Carter, MD 05/22/2026 00.00 PST IAL During Smg Drug",2.8266472816467285,Tesla T4 GPU
+med_doc_discharge_summary_200436_noisy.jpg,easyocr,raw,"Lilavati Hospital DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Pooja Joshi MRN-8492018 1980-01-22 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis of Knee. Upon admission, initial vitals were stabilized_ The patient reported that symptoms have been progressively worsening over the past 48 hours prior to admission. No of recent trauma_ 2. ADMISSION DIAGNOSIS Osteoarthritis of Knee (ICD-10: M17.9) 3. HOSPITAL COURSE Admitted for severe knee exacerbation. X-rays confirmed moderate to severe OA. Received an intra-articular corticosteroid injection which provided immediate relief: Discharged with outpatient PT referrals. 4. PERTINENT LABS & IMAGING During the course of the admission, the following diagnostic procedures were ordered and evaluated: X-Ray Knee, 3 Views, Emergency Room Level 3, Medical/Surgical Supplies Results were reviewed by the attending physician and incorporated into the care plan_ 5. DISCHARGE MEDICATIONS Meloxicam PO Daily Triamcinolone Acetonide Intra-articular Injection 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated: Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week: FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F. 7. ALLERGIES & CODE STATUS Allergies: No Known Allergies (NKDA): Code Status: Full Code  Electronically Signed By: DatelTime: Dr. Jonathan H. Carter, MD 05/22/2026 00.00 PST history IAL 15mg Drug",2.752742290496826,Tesla T4 GPU
+med_doc_discharge_summary_200432_noisy.jpg,easyocr,raw,"Manipal Hospital DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Rohan Sharma MRN-8472910 1985-04-12 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis f Knee. Upon admission, initial vitals were stabilized: The patient reported that symptoms have been progressively worsening over the past 48 hours to admission. No history of recent trauma. 2. ADMISSION DIAGNOSIS Osteoarthritis of Knee (ICD-10: M17.9) 3. HOSPITAL COURSE Admitted for severe knee exacerbation. X-rays confirmed moderate to severe OA. Received an intra-articular corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals. 4.PERTINENT LABS & IMAGING During the course of the admission, the following diagnostic procedures were ordered and evaluated: IV Therapy, Physical Therapy Evaluation, Room and Board Semi-Private, Pharmacy Services_ Results were reviewed by the attending physician and incorporated into the care plan. 5. DISCHARGE MEDICATIONS Ibuprofen 80Omg PO TID PRN 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week: FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F 7. ALLERGIES & CODE STATUS Allergies: No Known Drug Allergies (NKDA): Code Status: Full Code  Electronically Signed By: DatelTime: Dr . Jonathan H. Carter, MD 05/22/2026 00.00 PST prior IAL",3.001009941101074,Tesla T4 GPU
+med_doc_discharge_summary_200435_noisy.jpg,easyocr,raw,"Apollo Health DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Amit Singh MRN-1039485 1978-11-03 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented to the emergency department with worsening symptoms consistent with Acute Bronchitis: Upon admission, initial vitals were stabilized_ The patient reported that symptoms have been progressively worsening over the past 48 hours prior to admission: No of recent trauma_ 2. ADMISSION DIAGNOSIS Acute Bronchitis (ICD-10: J20.9) 3. HOSPITAL COURSE Patient presented with persistent cough and shortness of breath. Chest X-Ray confirmed no pneumonia: Treated with bronchodilators and a short course of oral steroids. Symptoms improved significantly. 4. PERTINENT LABS & IMAGING During the course of the admission; the following diagnostic procedures were ordered and evaluated: Spirometry, Medical/Surgical Supplies, Room and Board Semi-Private, Rapid Strep Test. Results were reviewed by the attending physician and incorporated into the care plan: 5. DISCHARGE MEDICATIONS Albuterol Sulfate Inhaler 2 puffs Q4H PRN Azithromycin 250mg PO Daily x 5 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F_ 7. ALLERGIES & CODE STATUS Allergies: No Known Allergies (NKDA): Code Status: Full Code Electronically Signed By: DatelTime: Dr . Jonathan H. Carter, MD 05/22/2026 00.00 PST City history IAL Days Drug",2.757817506790161,Tesla T4 GPU
+med_doc_bill_100401_noisy.jpg,easyocr,raw,"Apollo Health Jubilee Hills, Hyderabad, Telangana 500033 NPI: 1932485721 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: Star Health and Allied Insurance Guarantor No: MRN-5920183 Group No: GRP-3236 Patient Name: Sneha Iyer Primary Diagnosis: Hyperlipidemia Date of Birth: 1988-03-05 ICD-10 Code: E78.5 Date CPT Description Charges 05/22/2026 99283 Emergency Room Level 3 S906.00 05/22/2026 0260 IV Therapy S107.00 05/22/2026 0250 Pharmacy Services S398.00 05/22/2026 0270 Medical/Surgical Supplies S104.00 05/22/2026 80076 Hepatic Function Panel S45.00 Total Billed Charges: S1560.00 Insurance Adjustments: -S1096.00 PATIENT AMOUNT DUE: S464.00 Please detach and return with your payment City 8 NNi""",1.844649314880371,Tesla T4 GPU
+med_doc_bill_100400_noisy.jpg,easyocr,raw,"Lilavati Hospital Bandra Reclamation , Mumbai, Maharashtra 400050 NPI: 1482950384 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: Star Health and Allied Insurance Guarantor No: MRN-3920184 Group No: GRP-9757 Patient Name: Vikram Reddy Primary Diagnosis: Type 2 Diabetes Mellitus Date of Birth: 1982-09-30 ICD-10 Code: E11.9 Date CPT Description Charges 05/22/2026 0120 Room and Board Semi-Private S853.00 05/22/2026 0250 Pharmacy Services S80.00 05/22/2026 83036 Hemoglobin Aic (HbAIc) S82.00 05/22/2026 99283 Emergency Room Level 3 S485.00 05/22/2026 0270 Medical/Surgical S164.00 05/22/2026 99213 Office Visit, Est Patient S94.00 Total Billed Charges: S1758.00 Insurance Adjustments: -S1384.00 PATIENT AMOUNT DUE: 5374.00 Please detach and relurn with your payment ~NTIA ~Il KON",1.9581458568572998,Tesla T4 GPU
+med_doc_bill_100402_noisy.jpg,easyocr,raw,"Apollo Health Jubilee Hills, Hyderabad, Telangana 500033 NPI: 1932485721 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: Star Health and Allied Insurance Guarantor No: MRN-5920183 Group No: GRP-9820 Patient Name: Sneha Iyer Primary Diagnosis: Hyperlipidemia Date of Birth: 1988-03-05 ICD-10 Code: E78.5 Date CPT Description Charges 05/22/2026 0250 Pharmacy Services S67.00 05/22/2026 36415 Venipuncture S18.00 Total Billed Charges: S85.00 Insurance Adjustments: ~S55.00 PATIENT AMOUNT DUE: S30.00 Please detach and return with your payment City E 0E 8",1.6294891834259033,Tesla T4 GPU
+med_doc_discharge_summary_200429_noisy.jpg,easyocr,raw,"Apollo Health DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Priya Patel MRN-4920184 1990-08-25 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented t0 the emergency department with worsening symptoms consistent with Essential Hypertension. Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening over the past 48 hours to admission: No history of recent trauma  2. ADMISSION DIAGNOSIS Essential Hypertension (ICD-10: I10) 3. HOSPITAL COURSE Admitted for hypertensive urgency. Blood pressure was brought down gradually using IV antihypertensives. Transitioned t0 oral regimen and monitored for 24 hours without adverse events. 4.PERTINENT LABS & IMAGING During the course of the admission, the following diagnostic procedures were ordered and evaluated: Electrocardiogram, Routine ECG, MedicalSurgical Supplies, Lipid Panel, Emergency Room Level 3,IV Therapy, Echocardiogram Complete. Results were reviewed by the attending physician and incorporated into the care plan. 5. DISCHARGE MEDICATIONS Amlodipine PO Daily Hydrochlorothiazide 25mg PO Daily Lisinopril 1Omg PO 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated: Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week: FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath , uncontrolled bleeding; or fever greater than 101.5'F. 7. ALLERGIES & CODE STATUS Allergies: No Known Allergies (NKDA): Code Status: Full Code. Electronically Signed DatefTime: Dr. Jonathan H: Carter, MD 05/22/2026 00.00 PST City prior IAL Smg Daily Drug By:",2.8737945556640625,Tesla T4 GPU
+med_doc_discharge_summary_200431_noisy.jpg,easyocr,raw,"Fortis Escorts Heart Institute DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Amit Singh MRN-1039485 1978-11-03 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented to the emergency department with worsening symptoms consistent with Acute Bronchitis. Upon admission, initial vitals were stabilized  The patient reported that symptoms have been progressively worsening over the past 48 hours to admission. No history of recent trauma_ 2. ADMISSION DIAGNOSIS Acute Bronchitis (ICD-10: J20.9) 3. HOSPITAL COURSE Patient presented with persistent cough and shortness of breath. Chest X-Ray confirmed no pneumonia. Treated with bronchodilators and a short course of oral steroids. Symptoms improved significantly: 4. PERTINENT LABS & IMAGING During the course of the admission, the following diagnostic procedures were ordered and evaluated: Spirometry, Chest X-Ray, 1 View, Emergency Room Level 3, Complete Blood Count (CBC) , IV Therapy, Pharmacy Services: Results were reviewed by the attending physician and incorporated into the care plan. 5. DISCHARGE MEDICATIONS Albuterol Sulfate Inhaler 2 puffs Q4H PRN 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated. Maintain adequate oral hydration: ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week: FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F_ 7. ALLERGIES & CODE STATUS Allergies: No Known Drug Allergies (NKDA): Code Status: Full Code. Electronically Signed By: DatelTime: Dr. Jonathan H. Carter, MD 05/22/2026 00.00 PST prior IAL days:",3.080738067626953,Tesla T4 GPU
+med_doc_discharge_summary_200434_noisy.jpg,easyocr,raw,"Christian Medical College (CMC) DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Patel MRN-4920184 1990-08-25 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis of Knee. Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening over the past 48 hours to admission_ No history of recent trauma: 2. ADMISSION DIAGNOSIS Osteoarthritis of Knee (ICD-10: M17.9) 3. HOSPITAL COURSE Admitted for severe knee exacerbation. X-rays confirmed moderate to severe OA. Received an intra-articular corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals_ 4. PERTINENT LABS & IMAGING During the course of the admission, the following diagnostic procedures were ordered and evaluated: Therapeutic Exercise, Physical Therapy Evaluation, Pharmacy Services, X-Ray Knee, 3 Views, IV Therapy Results were reviewed by the attending physician and incorporated into the care plan. 5. DISCHARGE MEDICATIONS Meloxicam 15mg PO Daily Triamcinolone Acetonide Intra-articular Injection 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week. FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return to the Emergency Room immediately if you experience severe chest shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F_ 7. ALLERGIES & CODE STATUS Allergies: No Known Drug Allergies (NKDA): Code Status: Full Code. Electronically Signed By: DatelTime: Dr. Jonathan H. Carter, MD 05/22/2026 00.00 PST Priya prior IAL pain,",2.7382071018218994,Tesla T4 GPU
+med_doc_bill_100499_noisy.jpg,easyocr,raw,"Manipal Hospital Old Airport Road, Bengaluru; Karnataka 560017 NPI: 1728394051 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: ICICI Lombard General Insurance Guarantor No: MRN-3019284 Group No: GRP-4854 Patient Name: Karan Malhotra Primary Diagnosis: Acute Bronchitis Date of Birth: 1992-07-15 ICD-10 Code: J20.9 Date CPT Description Charges 05/22/2026 71045 Chest X-Ray; View S96.00 05/22/2026 0120 Room and Board Semi-Private S1373.00 Total Billed Charges: S1469.00 Insurance Adjustments: S955.00 PATIENT AMOUNT DUE: 5514.00 Please detach and return with your payment E DE 8",1.7066874504089355,Tesla T4 GPU
+med_doc_bill_100403_noisy.jpg,easyocr,raw,"Fortis Escorts Heart Institute Okhla Road, New Delhi, Delhi 110025 NPI: 1847592038 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: ICICI Lombard General Insurance Guarantor No: MRN-4859201 Group No: GRP-9528 Patient Name: Rahul Verma Primary Diagnosis: Osteoarthritis of Knee Date of Birth: 1970-12-10 ICD-10 Code: M17.9 Date CPT Description Charges 05/22/2026 0260 IV Therapy 5255.00 05/22/2026 20610 Arthrocentesis Joint Injection S287.00 05/22/2026 0120 Room and Board Semi-Private S1027.00 05/22/2026 73562 X-Ray Knee, 3 Views S199.00 05/22/2026 0250 Pharmacy Services S158.00 Total Billed Charges: S1926.00 Insurance Adjustments: -S1497.00 PATIENT AMOUNT DUE: S429.00 Please detach and return with your payment 8 ANr",1.8918194770812988,Tesla T4 GPU
+med_doc_bill_100406_noisy.jpg,easyocr,raw,"Fortis Escorts Heart Institute Okhla Road, New Delhi, Delhi 110025 NPI: 1847592038 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: Religare Health Insurance Guarantor No: MRN-3920184 Group No: GRP-8372 Patient Name: Vikram Reddy Primary Diagnosis: Type 2 Diabetes Mellitus Date of Birth: 1982-09-30 ICD-10 Code: E11.9 Date CPT Description Charges 05/22/2026 0250 Pharmacy Services S260.00 05/22/2026 92250 Diabetic Retinal Exam S101.00 05/22/2026 99213 Office Visit, Est Patient S102.00 Total Billed Charges: S463.00 Insurance Adjustments: -S292.00 PATIENT AMOUNT DUE: S171.00 Please detach and return with your payment 0 Ou",1.742283582687378,Tesla T4 GPU
+med_doc_bill_100407_noisy.jpg,easyocr,raw,"Manipal Hospital Old Airport Road, Bengaluru; Karnataka 560017 NPI: 1728394051 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: ICICI Lombard General Insurance Guarantor No: MRN-4920184 Group No: GRP-2139 Patient Name: Patel Primary Diagnosis: Hyperlipidemia Date of Birth: 1990-08-25 ICD-10 Code: E78.5 Date CPT Description Charges 05/22/2026 80061 Lipid Panel S65.00 05/22/2026 0260 IV Therapy S141.00 Total Billed Charges: S206.00 Insurance Adjustments: S151.00 PATIENT AMOUNT DUE: S55.00 Ploase detach and return wth your payment Priya VTIA D 8",1.8528316020965576,Tesla T4 GPU
+med_doc_bill_100498_noisy.jpg,easyocr,raw,"Apollo Health Jubilee Hyderabad, Telangana 500033 NPI: 1932485721 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: HDFC ERGO General Insurance Guarantor No: MRN-3019284 Group No: GRP-3163 Patient Name: Karan Malhotra Primary Diagnosis: Osteoarthritis of Knee Date of Birth: 1992-07-15 ICD-10 Code: M17.9 Date CPT Description Charges 05/22/2026 0260 IV Therapy S203.00 05/22/2026 97110 Therapeutic Exercise S85.00 05/22/2026 0120 Room and Board Semi-Private S1116.00 05/22/2026 0250 Pharmacy Services S141.00 Total Billed Charges: S1545.00 Insurance Adjustments: S1099.00 PATIENT AMOUNT DUE: 5446.00 Please delach and return with your payment City Hills, DeNTIAL L",2.028996467590332,Tesla T4 GPU
+med_doc_bill_100409_noisy.jpg,easyocr,raw,"Manipal Hospital Old Airport Road, Bengaluru; Karnataka 560017 NPI: 1728394051 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: Star Health and Allied Insurance Guarantor No: MRN-3920184 Group No: GRP-7200 Patient Name: Vikram Reddy Primary Diagnosis: Acute Bronchitis Date of Birth: 1982-09-30 ICD-10 Code: J20.9 Date CPT Description Charges 05/22/2026 0270 Medical/Surgical Supplies S150.00 05/22/2026 99283 Emergency Room Level 3 S564.00 05/22/2026 94010 Spirometry S53.00 Total Billed Charges: S767.00 Insurance Adjustments: S664.00 PATIENT AMOUNT DUE: 5103.00 Please delach and return with your payment 0 O""",1.7020573616027832,Tesla T4 GPU
+med_doc_discharge_summary_200428_noisy.jpg,easyocr,raw,"Lilavati Hospital DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Neha Gupta MRN-2019384 1995-05-20 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented t0 the emergency department with worsening symptoms consistent with Osteoarthritis of Knee. Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening over the past 48 hours to admission. No history of recent trauma_ 2. ADMISSION DIAGNOSIS Osteoarthritis of Knee (ICD-10: M17.9) 3. HOSPITAL COURSE Admitted for severe knee exacerbation. X-rays confirmed moderate t0 severe OA. Received an intra-articular corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals: 4.PERTINENT LABS & IMAGING During the course of the admission, the following diagnostic procedures were ordered and evaluated: Physical Therapy Evaluation, MedicalSurgical Supplies. Results were reviewed by the attending physician and incorporated into the care plan: 5. DISCHARGE MEDICATIONS Ibuprofen PO TID PRN Meloxicam 15mg PO Daily 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week: FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F . 7. ALLERGIES & CODE STATUS Allergies: No Known Allergies (NKDA) Code Status: Full Code. Electronically Signed By: DatelTime: Dr. Jonathan H. Carter, MD 05/22/2026 00.00 PST prior IAL 800mg Drug",2.6238601207733154,Tesla T4 GPU
+med_doc_bill_100408_noisy.jpg,easyocr,raw,"Christian Medical College (CMC) Ida Scudder Road, Vellore, Tamil Nadu 632004 NPI: 1958473029 Phone: (555) 019-8372 PATIENT ACCOUNT STATEMENT Statement Date: 05/22/2026 Primary Insurance: Religare Health Insurance Guarantor No: MRN-5920183 Group No: GRP-1121 Patient Name: Sneha Iyer Primary Diagnosis: Acute Bronchitis Date of Birth: 1988-03-05 ICD-10 Code: J20.9 Date CPT Description Charges 05/22/2026 0270 Medical/Surgical Supplies S61.00 05/22/2026 99283 Emergency Room Level 3 S463.00 05/22/2026 85025 Complete Blood Count (CBC) S66.00 05/22/2026 0250 Pharmacy Services 5386.00 05/22/2026 0260 IV Therapy S135.00 Total Billed Charges: S1111.00 Insurance Adjustments: ~S869.00 PATIENT AMOUNT DUE: S242.00 Please detach and return with your payment 0",1.8256645202636719,Tesla T4 GPU
+med_doc_discharge_summary_200439_noisy.jpg,easyocr,raw,"Lilavati Hospital DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Karan Malhotra MRN-3019284 1992-07-15 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented to the emergency department with worsening symptoms consistent with Osteoarthritis of Knee. Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening over the past 48 hours t0 admission. No history of recent trauma 2. ADMISSION DIAGNOSIS Osteoarthritis of Knee 10: M17.9) 3. HOSPITAL COURSE Admitted for severe knee exacerbation: X-rays confirmed moderate t0 severe OA. Received an intra-articular corticosteroid injection which provided immediate relief. Discharged with outpatient PT referrals: 4. PERTINENT LABS & IMAGING the course of the admission, the following diagnostic procedures were ordered and evaluated: Room and Board Semi-Private, Therapeutic Exercise, X- Knee, 3 Views, Emergency Room Level 3, MedicalSurgical Supplies, Pharmacy Services. Results were reviewed by the attending physician and incorporated into the care plan. 5. DISCHARGE MEDICATIONS Triamcinolone Acetonide Intra-articular Injection 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated. Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week: FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 days. Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F 7. ALLERGIES & CODE STATUS Allergies: No Known Allergies (NKDA): Code Status: Full Code. Electronically Signed By: DatefTime: Dr. Jonathan H: Carter, MD 05/22/2026 00.00 PST prior IAL (ICD-- During Ray Drug",2.71671462059021,Tesla T4 GPU
+med_doc_discharge_summary_200433_noisy.jpg,easyocr,raw,"Apollo Health DISCHARGE INSTRUCTIONS & CLINICAL SUMMARY Patient: MRN: DOB: Amit Singh MRN-1039485 1978-11-03 1. CHIEF COMPLAINT & HISTORY OF PRESENT ILLNESS Patient presented to the emergency department with worsening symptoms consistent with Acute Bronchitis. Upon admission, initial vitals were stabilized. The patient reported that symptoms have been progressively worsening over the past 48 hours to admission. No of recent trauma: 2. ADMISSION DIAGNOSIS Acute Bronchitis (ICD-10: J20.9) 3. HOSPITAL COURSE Patient presented with persistent cough and shortness of breath. Chest X-Ray confirmed no pneumonia. Treated with bronchodilators and a short course of oral steroids. Symptoms improved significantly. 4. PERTINENT LABS & IMAGING During the course of the admission, the following diagnostic procedures were ordered and evaluated: Pharmacy Services, Emergency Room Level 3. Results were reviewed by the attending physician and incorporated into the care plan: 5. DISCHARGE MEDICATIONS Benzonatate PO TID PRN Cough Albuterol Sulfate Inhaler 2 puffs Q4H PRN 6. DISCHARGE INSTRUCTIONS & FOLLOW-UP DIET: Regular diet as tolerated_ Maintain adequate oral hydration. ACTIVITY: Activity as tolerated; avoid strenuous exercise for 1 week: FOLLOW-UP: Please follow up with your primary care physician (PCP) within 7-10 Return to the Emergency Room immediately if you experience severe chest pain, shortness of breath, uncontrolled bleeding; or fever greater than 101.5'F . 7. ALLERGIES & CODE STATUS Allergies: No Known Allergies (NKDA): Code Status: Full Code_ Electronically Signed By: DatelTime: Dr. Jonathan H: Carter, MD 05/22/2026 00.00 PST City history prior IAL 10Omg days: Drug",3.3097026348114014,Tesla T4 GPU
