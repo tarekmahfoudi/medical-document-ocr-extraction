@@ -1,0 +1,5 @@
+engine,device,image_type,mean_time,mean_characters,mean_words
+easyocr,Tesla T4 GPU,preprocessed,1.8176270008087159,712.0,94.0
+easyocr,Tesla T4 GPU,raw,2.1228580474853516,721.2,96.4
+tesseract,CPU,preprocessed,2.4979380130767823,705.0,98.8
+tesseract,CPU,raw,2.2986477851867675,699.2,88.8
